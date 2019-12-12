@@ -1,5 +1,5 @@
 {
-  "users": [
-    { "id": 1, "nome": "Giacomo", "cognome": "Tani" }
+  "note": [
+    { "text": "Ciao Giacomo" }
   ]
 }
