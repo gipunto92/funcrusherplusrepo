@@ -1,5 +1,5 @@
 {
   "note": [
-    { "text": "Ciao Giacomo" }
+    { "id": 1, "text": "Ciao Giacomo" }
   ]
 }
