@@ -1,5 +1,5 @@
 {
-  id: 1,
-  nome: "Giacomo",
-  cognome: "Tani"
+  "users": [
+    { "id": 1, "nome": "Giacomo", "cognome": "Tani" }
+  ]
 }
